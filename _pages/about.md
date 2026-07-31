@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I'm Bosi Zhang, a Ph.D. student at the [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Guangdong Bai](https://baigd.github.io/). Previously, I received my M.S. degree from the [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST), where I was supervised by [Prof. Haoyu Wang](https://howiepku.github.io/) and co-supervised by [Ningyu He](https://ningyu-he.notion.site/ningyu-he/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I obtained my B.Eng. degree in Cyber Science and Engineering from HUST.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in **LLM for SE (Software Engineering/Security)**, **Program Analysis**, **Formal Methods**, and **Automated Testing**.
 
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2026.07*: Our paper about price manipulation fuzzing is accepted by **ASE 2026** 
+- *2026.05*: One paper about RAG in MLLM  is accepted at **ICML 2026**.
+- *2025.01*: Our paper about price manipulation attack contracts detecting is accepted at **USENIX Security 2025**.
+- *2025.03*: One paper about identifying squatting strategies in the NFT ecosystem is accepted by  **EuroS&P 2025**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='-education'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝  Publications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ (\* Equal Contribution) 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **SPSYN: Synthesizing DeFi Price-Manipulation Exploits via Semantic Recovery and State-Guided Search** <br>
+  **Bosi Zhang**, Ningyu He, Guangdong Bai, and Haoyu Wang<br>
+  *The 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)* 
+  [\[Paper\]]()
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks**<br>
+  **Bosi Zhang**, Ningyu He, Xiaohui Hu, Kai Ma, Haoyu Wang<br>
+  *The 34th USENIX Security Symposium (USENIX Security 2025)* 
+  [\[Paper\]](https://www.usenix.org/system/files/usenixsecurity25-zhang-bosi.pdf)
+  
+- **Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**<br>Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, Zhuoning Guo, **Bosi Zhang**, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding, Feng Zhao<br>
+*The 43rd International Conference on Machine Learning (ICML 2026)* 
+[\[Paper\]](https://arxiv.org/pdf/2602.12735v1)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Cybersquatting in Web3: The Case of NFT**<br>
+  Kai Ma, Ningyu He, Jingtao Huang, **Bosi Zhang**, Ping Wu, Haoyu Wang<br>
+  *The 10th IEEE European Symposium on Security and Privacy (EuroS&P 2025)*  [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11129288)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='-academic-service'></span>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖Honors and Awards
+
+- *2025*: **National Scholarship**
+- *2025*: Science and Technology Innovation Scholarship
+- *2021*: Studies Excellent Scholarship (Top 10%)
+
+# 📚 Education
+
+- *2026.09 - Present*, Ph.D. Student in Computer Science, City University of Hong Kong, Hong Kong, China.
+- *2023.09 - 2026.06*, M.S. in Cyber Science and Engineering, Huazhong University of Science and Technology.
+- *2019.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Huazhong University of Science and Technology.
+
+<span class='anchor' id='-internships'></span>
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2025.06 - 2025.09*, Blockchain R&D Engineer Intern, AntChain – Ant Group, Hangzhou, China.
+- *2022.07 - 2022.09*, Digital IT Intern, Department of Quality and Process IT – Huawei, Shenzhen, China.
+
+<span class='anchor' id='-publications'></span>
+
+# 💼 Academic Service
+
+- **AEC**: USENIX Security 2026
+- **Sub-Reviewer**: USENIX Security (2026), CCS (2026), ISSTA (2026), AES (2026), FSE (2025), AsiaCCS (2025), CCS (2025)
+
+<span class='anchor' id='-teaching'></span>
+
+# 📖 Teaching
+
+- Teaching Assistant, **Decentralized Finance Security**, HUST, Fall 2025
+- Teaching Assistant, **Experiment on Operating System Composition Principles**, HUST, Fall 2023 & 2024
+- Teaching Assistant, **Operating System Course Design**, HUST, Spring 2024 & 2025
+
