@@ -39,7 +39,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 - **SPSYN: Synthesizing DeFi Price-Manipulation Exploits via Semantic Recovery and State-Guided Search** <br>
   **Bosi Zhang**, Ningyu He, Guangdong Bai, and Haoyu Wang<br>
   *The 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*
-  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#3498db;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A</span>
+  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span>
   [\[Paper\]]()
 
 - **Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks**<br>
