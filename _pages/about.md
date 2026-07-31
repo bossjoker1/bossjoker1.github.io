@@ -26,9 +26,9 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 # 🔥 News
 
 - *2026.07*: Our paper about price manipulation fuzzing is accepted by **ASE 2026** 
-- *2026.05*: One paper about RAG in MLLM  is accepted at **ICML 2026**.
-- *2025.01*: Our paper about price manipulation attack contracts detecting is accepted at **USENIX Security 2025**.
-- *2025.03*: One paper about identifying squatting strategies in the NFT ecosystem is accepted by  **EuroS&P 2025**.
+- *2026.05*: One paper about RAG in MLLM  is accepted at **ICML 2026**
+- *2025.01*: Our paper about price manipulation attack contracts detecting is accepted at **USENIX Security 2025**
+- *2025.03*: One paper about identifying squatting strategies in the NFT ecosystem is accepted by  **EuroS&P 2025**
 
 <span class='anchor' id='-education'></span>
 
