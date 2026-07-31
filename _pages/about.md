@@ -63,6 +63,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 🎖Honors and Awards
 
+- *2026*: Outstanding Graduate of HUST
 - *2025*: **National Scholarship**
 - *2025*: Science and Technology Innovation Scholarship
 - *2021*: Studies Excellent Scholarship (Top 10%)
