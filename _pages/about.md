@@ -27,8 +27,8 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 - *2026.07*: Our paper about price manipulation fuzzing is accepted by **ASE 2026** 
 - *2026.05*: One paper about RAG in MLLM  is accepted at **ICML 2026**
-- *2025.01*: Our paper about price manipulation attack contracts detecting is accepted at **USENIX Security 2025**
 - *2025.03*: One paper about identifying squatting strategies in the NFT ecosystem is accepted by  **EuroS&P 2025**
+- *2025.01*: Our paper about price manipulation attack contracts detecting is accepted at **USENIX Security 2025**
 
 <span class='anchor' id='-education'></span>
 
@@ -38,21 +38,26 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 - **SPSYN: Synthesizing DeFi Price-Manipulation Exploits via Semantic Recovery and State-Guided Search** <br>
   **Bosi Zhang**, Ningyu He, Guangdong Bai, and Haoyu Wang<br>
-  *The 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)* 
+  *The 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*
+  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#3498db;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A</span>
   [\[Paper\]]()
 
 - **Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks**<br>
   **Bosi Zhang**, Ningyu He, Xiaohui Hu, Kai Ma, Haoyu Wang<br>
-  *The 34th USENIX Security Symposium (USENIX Security 2025)* 
+  *The 34th USENIX Security Symposium (USENIX Security 2025)*
+  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span>
   [\[Paper\]](https://www.usenix.org/system/files/usenixsecurity25-zhang-bosi.pdf)
   
 - **Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**<br>Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, Zhuoning Guo, **Bosi Zhang**, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding, Feng Zhao<br>
-*The 43rd International Conference on Machine Learning (ICML 2026)* 
+*The 43rd International Conference on Machine Learning (ICML 2026)*
+  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span>
 [\[Paper\]](https://arxiv.org/pdf/2602.12735v1)
 
 - **Cybersquatting in Web3: The Case of NFT**<br>
   Kai Ma, Ningyu He, Jingtao Huang, **Bosi Zhang**, Ping Wu, Haoyu Wang<br>
-  *The 10th IEEE European Symposium on Security and Privacy (EuroS&P 2025)*  [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11129288)
+  *The 10th IEEE European Symposium on Security and Privacy (EuroS&P 2025)*
+  <span style="background-color:#95a5a6;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-C</span> <span style="background-color:#3498db;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A</span>
+  [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11129288)
 
 <span class='anchor' id='-academic-service'></span>
 
