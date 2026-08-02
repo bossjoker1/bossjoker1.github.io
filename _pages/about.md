@@ -70,8 +70,8 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 📚 Education
 
-- *2026.09 - Present*, Ph.D. Student in Computer Science, City University of Hong Kong, Hong Kong, China.
-- *2023.09 - 2026.06*, M.S. in Cyber Science and Engineering, Huazhong University of Science and Technology.
+- *2026.09 - Present*, Ph.D. Student in Computer Science, City University of Hong Kong.
+- *2023.09 - 2026.06*, M.S. in Cyber Security Huazhong University of Science and Technology.
 - *2019.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Huazhong University of Science and Technology.
 
 <span class='anchor' id='-internships'></span>
