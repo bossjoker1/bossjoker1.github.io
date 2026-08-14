@@ -63,6 +63,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 🎖Honors and Awards
 
+- *2026*: ASE 2026 Travel Support  ([ACM SIGAI](https://conf.researchr.org/attending/ase-2026/Travel-Support#acm-sigai))
 - *2026*: Outstanding Graduate of HUST
 - *2025*: **National Scholarship**
 - *2025*: Science and Technology Innovation Scholarship
