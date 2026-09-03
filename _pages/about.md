@@ -93,6 +93,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 📖 Teaching
 
+- Teaching Assistant, CS5295(Network and Cloud Security), CityUHK, (Fall 2026)
 - Teaching Assistant, **Decentralized Finance Security**, HUST, Fall 2025
 - Teaching Assistant, **Experiment on Operating System Composition Principles**, HUST, Fall 2023 & 2024
 - Teaching Assistant, **Operating System Course Design**, HUST, Spring 2024 & 2025
