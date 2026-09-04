@@ -63,6 +63,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 🎖Honors and Awards
 
+- *2026*: Anthropic Claude Code Bug Bounty x1
 - *2026*: ASE 2026 Travel Support  ([ACM SIGAI](https://conf.researchr.org/attending/ase-2026/Travel-Support#acm-sigai))
 - *2026*: Outstanding Graduate of HUST
 - *2025*: **National Scholarship**
@@ -93,7 +94,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
 
 # 📖 Teaching
 
-- Teaching Assistant, CS5295(Network and Cloud Security), CityUHK, (Fall 2026)
+- Teaching Assistant, **CS5295(Network and Cloud Security)**, CityUHK, (Fall 2026)
 - Teaching Assistant, **Decentralized Finance Security**, HUST, Fall 2025
 - Teaching Assistant, **Experiment on Operating System Composition Principles**, HUST, Fall 2023 & 2024
 - Teaching Assistant, **Operating System Course Design**, HUST, Spring 2024 & 2025
