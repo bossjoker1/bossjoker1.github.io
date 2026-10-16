@@ -40,7 +40,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
   **Bosi Zhang**, Ningyu He, Guangdong Bai, and Haoyu Wang<br>
   *The 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*
   <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span>
-  [\[Paper\]](../papers/spsyn.pdf)
+  [\[Paper\]](https://dl.acm.org/doi/10.1145/3832783.3837520)
 
 - **Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks**<br>
   **Bosi Zhang**, Ningyu He, Xiaohui Hu, Kai Ma, Haoyu Wang<br>
