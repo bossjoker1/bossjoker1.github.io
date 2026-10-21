@@ -51,8 +51,7 @@ My research interests lie in **LLM for SE (Software Engineering/Security)**, **P
   
 - **Automated Security Analysis for Agentic Workflows**<br>Yanju Chen, Ying Li, **Bosi Zhang**, Hanzhi Liu, Hongbo Wen, Yufei Ding, Yuan Tian, Yu Feng<br>
   *The 49th International Conference on Software Engineering (ICSE 2027)*
-  
-  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span> [[Paper]](https://bossjoker1.github.io/)
+  <span style="background-color:#e74c3c;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CCF-A</span> <span style="background-color:#e67e22;color:#fff;padding:1px 6px;border-radius:3px;font-size:0.8em;font-weight:bold;">CORE-A*</span> [\[Paper\]](https://bossjoker1.github.io/)
   
 - **Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph**<br>Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, Zhuoning Guo, **Bosi Zhang**, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding, Feng Zhao<br>
 *The 43rd International Conference on Machine Learning (ICML 2026)*
